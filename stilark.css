@@ -1,0 +1,17 @@
+nav{
+    background-color: lightblue;
+    overflow: auto;
+}
+/*Styles the links inside the navigation bar*/
+nav a{
+    float: left;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.5rem 0.5rem;
+}
+/*Changing the color of a link when hovered*/
+nav a:hover{
+    background-color: #ddd;
+}
